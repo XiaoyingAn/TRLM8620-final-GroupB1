@@ -34,17 +34,17 @@
         "searchButtonLabel": "search products",
         "logoAlt": "Sample Logo",
         "searchIconAlt": "search icon",
-        "greetingText": "Hi Junjun",
+        "greetingText": "Hi USER",
         "historyLink": "ORDER HISTORY",
         "arrowAlt": "Drop Down Arrow",
         "cartAlt": "show cart",
         "navLinkHome": "HOME",
-        "navLinkDroids": "DROIDS",
-        "navLinkVehicles": "VEHICLES"
+        "navLinkDroids": "COLORFULGEM",
+        "navLinkVehicles": "DIAMOND"
     },
     "Home": {
-        "welcomeSubtitle": "We provide everything you need to take on the Empire (and win).",
-        "symbolAlt": "Imperial Credit currency symbol"
+        "welcomeSubtitle": "GEM A, your trusful GEM dealer.",
+        "symbolAlt": "COLORFUL GEMSTONES"
     },
     
     "Checkout": {
