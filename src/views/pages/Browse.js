@@ -14,13 +14,14 @@ let Browse = {
 
         let title = i18n.getString("Navbar", "title");
 
-        if(type == "droids") {
+        if (type === "droids") {
             productMap = productList.get('droids');
-            title += "droids";
-        }
-        else if(type == "vehicles") {
+            // Append localized version of "droids"
+            title += " " + i18n.getString("Navbar", "browseDroids");
+        } else if (type === "vehicles") {
             productMap = productList.get('vehicles');
-            title += "vehicles";
+            // Append localized version of "vehicles"
+            title += " " + i18n.getString("Navbar", "browseVehicles");
         }
 
         //view is solely for HTML markup, contains no static text

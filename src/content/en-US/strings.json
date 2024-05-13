@@ -40,7 +40,10 @@
         "cartAlt": "show cart",
         "navLinkHome": "HOME",
         "navLinkDroids": "COLORFULGEM",
-        "navLinkVehicles": "DIAMOND"
+        "navLinkVehicles": "DIAMOND",
+        "title": "Browse all",
+        "browseDroids": "COLORFULGEM",
+        "browseVehicles": "DIAMOND"
     },
     "Home": {
         "welcomeSubtitle": "GEM A, your trusful GEM dealer.",

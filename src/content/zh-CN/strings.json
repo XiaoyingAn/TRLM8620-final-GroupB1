@@ -40,7 +40,10 @@
         "cartAlt": "显示购物车",
         "navLinkHome": "首页",
         "navLinkDroids": "彩色宝石",
-        "navLinkVehicles": "钻石"
+        "navLinkVehicles": "钻石",
+        "title": "浏览所有",
+        "browseDroids": "彩色宝石",
+        "browseVehicles": "钻石"
     },
     "Home": {
         "welcomeSubtitle": "A牌宝石，您值得信赖的宝石经销商。",
