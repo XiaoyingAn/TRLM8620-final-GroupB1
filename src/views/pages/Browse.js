@@ -12,7 +12,7 @@ let Browse = {
 
         let productMap = null;
 
-        let title = "All ";
+        let title = i18n.getString("Navbar", "title");
 
         if(type == "droids") {
             productMap = productList.get('droids');
