@@ -35,13 +35,13 @@ class Order {
         var diffDays = Math.floor(Math.abs((this.orderDate.getTime() - now.getTime())/(oneDay))); //$NON-NLS-L$
 
         if(diffDays < 2) {
-            return i18n.t('OrderHistory.status_processing'); 
+            return i18n.getString("OrderHistory", "status_processing"); 
         }
         if(diffDays < 4) {
-            return i18n.t('OrderHistory.status_shipped'); 
+            return i18n.getString("OrderHistory", "status_shipped");  
         }
         else{
-            return i18n.t('OrderHistory.status_delivered'); 
+            return i18n.getString("OrderHistory", "status_delivered"); 
         }
     }
 
